@@ -9,6 +9,16 @@ const { board } = miro;
 function App() {
   // Raw URLs as a single string
   const rawUrls = `
+https://images.squarespace-cdn.com/content/65c9e6da38efdb65f2b2d36b/576b0065-c079-40a6-9bb2-7d3fe00ae4b0/zukunvt_logo_10years_logo_var9.png?content-type=image/png
+https://images.squarespace-cdn.com/content/65c9e6da38efdb65f2b2d36b/b97c47f2-4a2a-40c3-ab77-ad7c97b83471/zukunvt_logo_10years_logo_var7.png?content-type=image/png
+https://images.squarespace-cdn.com/content/65c9e6da38efdb65f2b2d36b/6181206d-0a91-4178-a6a2-2c3db9db4930/zukunvt_logo_10years_logo_var5.png?content-type=image/png
+https://images.squarespace-cdn.com/content/65c9e6da38efdb65f2b2d36b/f40a0933-26c7-4f73-8f24-793341ee06e6/zukunvt_logo_10years_logo_var8.png?content-type=image/png
+https://images.squarespace-cdn.com/content/65c9e6da38efdb65f2b2d36b/9a4d7f59-4079-43b3-af49-f4f416c47c13/zukunvt_logo_10years_logo_var2.png?content-type=image/png
+https://images.squarespace-cdn.com/content/65c9e6da38efdb65f2b2d36b/5c41656b-886d-41e9-97d3-49672b8879f0/zukunvt_logo_10years_logo_var3.png?content-type=image/png
+https://images.squarespace-cdn.com/content/65c9e6da38efdb65f2b2d36b/fcad891b-8770-4b37-a3e4-031e523b8191/zukunvt_logo_10years_logo_var1.png?content-type=image/png
+https://images.squarespace-cdn.com/content/65c9e6da38efdb65f2b2d36b/6e83fa3c-eca3-4b5b-9442-f506434297e6/zukunvt_logo_10years_logo_var6.png?content-type=image/png
+https://images.squarespace-cdn.com/content/65c9e6da38efdb65f2b2d36b/e55c0385-7c67-49e4-b151-a8b4e98d40df/zukunvt-logo-white.png?content-type=image/png
+https://images.squarespace-cdn.com/content/65c9e6da38efdb65f2b2d36b/6b8a0a88-1301-41a4-81cc-370603c7d6ce/zukunvt-logo-blue.png?content-type=image/png
 https://images.squarespace-cdn.com/content/65c9e6da38efdb65f2b2d36b/4cf0323b-25b4-4f81-96eb-d2e277461b5a/ZK_buttons_library-blue_16.png?content-type=image/png
 https://images.squarespace-cdn.com/content/65c9e6da38efdb65f2b2d36b/bb0cdbc9-08c6-4180-a293-42008e079c78/ZK_buttons_library-blue_18.png?content-type=image%2Fpng
 https://images.squarespace-cdn.com/content/65c9e6da38efdb65f2b2d36b/994fbf8b-880e-4ec8-910d-16adcf5ef99d/ZK_buttons_library-blue_20.png?content-type=image%2Fpng
